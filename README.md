@@ -26,6 +26,10 @@ IAM Roles and Policies: Configures IAM roles and policies for secure and control
 
 Networking and Load Balancing: Establishes networking rules and load balancers to manage traffic and ensure high availability.
 
+**Prerequisites**
+
+Terraform installed (v1.0.0 or later)
 AWS CLI configured with appropriate access rights
 
-![image](https://github.com/user-attachments/assets/d75f3b41-96df-43b1-a338-2a156e6c46e3)
+![image](https://github.com/user-attachments/assets/ecb50a42-719f-430b-9324-ba84c10b04f0)
+
