@@ -1,7 +1,5 @@
 EKS Cluster Deployment in a New VPC using Terraform
-
-**Overview**
-
+Overview
 This repository contains Terraform configurations for provisioning an Amazon EKS (Elastic Kubernetes Service) cluster within a newly created VPC (Virtual Private Cloud). The setup includes all necessary components to establish a scalable, secure Kubernetes environment on AWS.
 
 Project Structure
@@ -15,8 +13,5 @@ VPC Creation: Automates the creation of a new VPC, including public and private 
 EKS Cluster Deployment: Sets up an EKS cluster using Terraform, integrating with necessary AWS services and resources.
 IAM Roles and Policies: Configures IAM roles and policies for secure and controlled access to AWS services and the Kubernetes cluster.
 Networking and Load Balancing: Establishes networking rules and load balancers to manage traffic and ensure high availability.
-Getting Started
-Prerequisites
-Terraform installed (v1.0.0 or later)
 AWS CLI configured with appropriate access rights
 ![image](https://github.com/user-attachments/assets/d75f3b41-96df-43b1-a338-2a156e6c46e3)
